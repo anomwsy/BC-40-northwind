@@ -1,1 +1,3 @@
 this is configurations
+- menambahkan service untuk order
+- menambahkan service untk order detail
