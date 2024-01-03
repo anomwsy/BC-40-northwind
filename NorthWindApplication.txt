@@ -1,1 +1,2 @@
 this is configurations
+- menambahkan service untuk product
