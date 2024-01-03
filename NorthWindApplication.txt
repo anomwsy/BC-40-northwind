@@ -1,2 +1,3 @@
 this is configurations
+- menambahkan service untuk product
 - menambahkan service untuk category
