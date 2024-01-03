@@ -1,6 +1,7 @@
 this is configurations
-- menambahkan service untuk product
 - menambahkan service untuk category
+- menambahkan service untuk product
 - menambahkan service untuk order
 - menambahkan service untk order detail
+- menambahkan service untuk supplier
 
